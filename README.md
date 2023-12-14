@@ -1,9 +1,9 @@
 # Watch_Cave
 Movie Steaming Website 
-Introduction & Objective
+# Introduction & Objective
 We are a team of five students who are passionate about web development and movie streaming. We have created a web application called Watch Cave that allows users to watch movies online for free. Our objective was to provide a user-friendly, accessible, and secure platform for movie lovers.
 
-What We Have Accomplished
+# What We Have Accomplished
 We have successfully implemented the following features for our web application:
 
 Home Page: This is the landing page of our web application. It displays the latest and popular movies, as well as a search bar and a navigation menu.
