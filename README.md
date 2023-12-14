@@ -29,10 +29,15 @@ The Team
 We are a team of five students from ICT department:
 
 M.G.S.V. Amarasena
+
 G.H.M.L.Chulabaya
+
 S.N.M. Harshana Prab
+
 W. M. N. T Wansooriya
+
 R.G.C.K.B. Thilakarathna
+
 This project was done for a university project only.
 
 Demo
